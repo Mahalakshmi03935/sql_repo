@@ -1,5 +1,5 @@
 --Creating the table tb1--
-CREATE TABLE dept_tbl ( id_deptname varchar(100), emp_name varchar(100), salary int);
+
 
 --Inserting data into the table tb1--
 INSERT INTO dept_tbl (id_deptname, emp_name, salary)values('1111-MATH', 'RAHUL', 10000),('1111-MATH', 'RAKESH', 20000),('2222-SCIENCE', 'AKASH', 10000),
