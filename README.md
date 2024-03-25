@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **SQL Repo** : This Repo consists of SQL Programs
 
 **Question 1:**
@@ -122,3 +123,6 @@ Course-Department: Many-to-One
 
 Represent entities as rectangles, attributes as ovals, and relationships as diamonds connecting entities.
 Include cardinality constraints near the relationships.
+=======
+
+>>>>>>> 70dafb623817a2305e781018eb7af6edc5461023
